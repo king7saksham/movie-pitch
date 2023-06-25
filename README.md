@@ -41,11 +41,11 @@ npm start
 ![Screenshot 3](/images/screenshots/screenshot3.png)
 
 ## Usage
-- Enter your movie idea in the provided text area.
-- Click the "Send" button.
-- Wait for the movie pitch generation process to complete.
-- Click the "View Pitch" button to see the complete movie pitch.
-- The generated movie title, cast, synopsis, and cover art will be displayed.
+1. Enter your movie idea in the provided text area.
+2. Click the "Send" button.
+3. Wait for the movie pitch generation process to complete.
+4. Click the "View Pitch" button to see the complete movie pitch.
+5. The generated movie title, cast, synopsis, and cover art will be displayed.
 
 ## License
 This project is licensed under the [MIT](LICENSE) License.
