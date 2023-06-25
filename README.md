@@ -29,6 +29,12 @@ npm install
 
 4. Set up the OpenAI API key by putting API key in the env.js file.
 
+5. Start the application:
+
+```bash
+npm start
+```
+
 ## Screenshots
 ![Screenshot 1](/images/screenshots/screenshot1.png)
 ![Screenshot 2](/images/screenshots/screenshot2.png)
