@@ -24,7 +24,7 @@ To get started with the Movie Pitch, follow these steps:
 3. Install the dependencies:
 
 ```bash
-npm install
+    npm install
 ```
 
 4. Set up the OpenAI API key by putting API key in the env.js file.
@@ -32,7 +32,7 @@ npm install
 5. Start the application:
 
 ```bash
-npm start
+    npm start
 ```
 
 ## Screenshots
